@@ -16,8 +16,8 @@
 [![Email: hojland93@gmail.com](https://img.shields.io/badge/email-hojland93@gmail.com-blue)](
     mailto:hojland93@gmail.com
 )
-[![How I vscode: @davidolrik](https://img.shields.io/badge/How%20I%20vscode-%40hojland-blue)](
-    https://howivscode.com/hojland
+[![How I vscode: @davidolrik](https://img.shields.io/badge/How%20I%20vscode-%40Hojland-blue)](
+    https://howivscode.com/Hojland
 )
 [![LinkedIn](https://img.shields.io/badge/linkedin-%40martinhøjlandhansen-blue)](
     https://www.linkedin.com/in/martin-højland-hansen-b8024b82/
