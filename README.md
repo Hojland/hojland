@@ -29,9 +29,9 @@
 ![Pytorch](https://img.shields.io/badge/-PyTorch-white?style=flat&logo=pytorch&logoColor=red)
 ![Python](https://img.shields.io/badge/-Python-306998?style=flat&logo=python&logoColor=ffd43b)
 ![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat&logo=terraform&logoColor=f0db4f)
-![AWS](https://img.shields.io/badge/-Amazon AWS-232F3E?style=flat&logo=amazon aws&logoColor=white)
+![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat&logo=amazon aws&logoColor=white)
 ![Open Source](https://img.shields.io/badge/-Open%20Source-grey?style=flat&logo=open-source-initiative&logoColor=3da639)
-![Raspberry](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat&logo=raspberry pi&logoColor=3da639)
+![Raspberry](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat&logo=raspberry%20pi&logoColor=3da639)
 ![Docker](https://img.shields.io/badge/-Docker-336791?style=flat&logo=docker&logoColor=white)
 ![Postgres](https://img.shields.io/badge/-PostgreSQL-white?style=flat&logo=postgresql&logoColor=blue)
 
